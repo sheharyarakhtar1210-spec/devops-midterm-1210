@@ -1,0 +1,29 @@
+{
+  "name": "devops-midterm-1210",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node --test",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheharyarakhtar1210-spec/devops-midterm-1210.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheharyarakhtar1210-spec/devops-midterm-1210/issues"
+  },
+  "homepage": "https://github.com/sheharyarakhtar1210-spec/devops-midterm-1210#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.15.0",
+    "globals": "^17.14.0"
+  }
+}
